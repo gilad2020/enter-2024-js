@@ -23,7 +23,7 @@ function getStatus2(code) {
     return 'Not implemented';
 }
 
-// use switch(true), return 'low' for num < 10, 'medium' for 10 <= num < 20, 'high' for num >= 20, 'unknown' for all other values
+// use switch(true), return 'low' for num < 10, 'medium' for 10 <= num < 20, 'high' for num < 30, 'unknown' for all other values
 function switchExample(num) {
 return 'Not implemented';
 }
